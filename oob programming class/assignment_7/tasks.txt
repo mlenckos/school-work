@@ -1,0 +1,3 @@
+   * Factory pattern for the UI package --complete
+   * Introduce Generic pair class and remove it from the UIform*/UIMenu* classes --complete
+   * hash consing for Videos in Data --complete

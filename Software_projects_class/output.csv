@@ -1,0 +1,9 @@
+,company_list,location,title,salary,education,programming_languages,soft_skills,keywords,benefits,state
+0,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+1,Pathrise,Remote,Data Scientist - Entry Level,,[],"['Python', ' SQL ']",['Flexible'],[],[],
+2,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+3,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+4,Triplebyte,"Seattle, WA",Machine Learning Engineer,"$150,000 - $250,000 a year",[],[],"['Remote', 'Flexible']",[],"['Retirement', 'Dental', 'Vision']",WA
+5,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+6,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+7,Chemlock Nutrition,"Cincinnati, OH",Data Scientist and Software Engineer,"$80,000 - $90,000 a year","['Bachelor', 'Associate']",[],[],[],"['401K', 'Retirement', 'Dental']",OH

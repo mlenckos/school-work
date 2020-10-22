@@ -1,0 +1,94 @@
+
+CITY                
+--------------------
+Chicago
+Los Angeles
+New York
+Philadelphia
+
+
+TITLE                    TYPE            PRICE
+------------------------ ---------- ----------
+West of Hollywood        DVD             11.99
+The Dark Knight          DVD             16.99
+The Skeleton Twins       DVD             21.99
+
+
+TITLE                    TYPE            PRICE
+------------------------ ---------- ----------
+One November Night       CD              13.99
+The Golden Gate          Book            12.99
+Altered Beast            CD              12.99
+West of Hollywood        DVD             11.99
+
+
+TITLE                   
+------------------------
+Wild Wild West
+West of Hollywood
+How the West Was Won
+
+
+ID 
+---
+100
+212
+212
+481
+677
+
+
+ID  MAX(PURCH
+--- ---------
+100 22-JAN-20
+481 15-NOV-19
+333 22-JAN-20
+590 15-JUN-18
+677 15-NOV-19
+212 15-NOV-19
+
+6 rows selected. 
+
+
+TYPE       MIN(PRICE)
+---------- ----------
+DVD             11.99
+CD              12.99
+Book            12.99
+
+
+SUM(QUANTITY) PDATE    
+------------- ---------
+            5 15-NOV-19
+            3 22-JAN-20
+            3 15-JUN-18
+            2 01-JUL-19
+            2 20-MAR-18
+            1 01-JAN-20
+
+6 rows selected. 
+
+
+PID  PDATE    
+---- ---------
+0003 01-JUL-19
+0006 15-NOV-19
+0008 01-JAN-20
+0009 22-JAN-20
+
+
+PID  PURCHASE.QUANTITY*ITEM.PRICE
+---- ----------------------------
+0002                        74.97
+0006                        50.97
+0001                        43.98
+0009                        37.98
+0004                        24.99
+0003                        21.99
+0008                        21.99
+0007                        16.99
+0010                        13.99
+0005                        12.99
+
+10 rows selected. 
+

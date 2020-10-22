@@ -1,0 +1,690 @@
+,company_list,location,title,salary,education,programming_languages,soft_skills,keywords,benefits,state
+0,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+1,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+2,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+3,Central Intelligence Agency,"Washington, DC",Undergraduate Internship/Co-op Program - Data Scientist,"$45,775 - $55,165 a year",['Bachelor'],[],['Leadership'],[],[],DC
+4,Central Intelligence Agency,"Washington, DC",Graduate Studies Program - Data Scientist,"$56,698 - $76,377 a year",['Bachelor'],[],['Leadership'],[],[],DC
+5,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+6,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+7,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+8,Chemlock Nutrition,"Cincinnati, OH",Data Scientist and Software Engineer,"$80,000 - $90,000 a year","['Bachelor', 'Associate']",[],[],[],"['401K', 'Retirement', 'Dental']",OH
+9,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+10,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+11,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+12,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+13,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+14,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+15,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+16,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+17,Chemlock Nutrition,"Cincinnati, OH",Data Scientist and Software Engineer,"$80,000 - $90,000 a year","['Bachelor', 'Associate']",[],[],[],"['401K', 'Retirement', 'Dental']",OH
+18,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+19,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+20,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+21,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+22,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+23,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+24,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+25,Chemlock Nutrition,"Cincinnati, OH",Data Scientist and Software Engineer,"$80,000 - $90,000 a year","['Bachelor', 'Associate']",[],[],[],"['401K', 'Retirement', 'Dental']",OH
+26,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+27,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+28,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+29,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+30,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+31,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+32,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+33,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+34,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+35,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+36,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+37,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+38,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+39,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+40,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+41,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+42,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+43,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+44,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+45,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+46,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+47,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+48,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+49,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+50,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+51,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+52,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+53,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+54,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+55,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+56,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+57,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+58,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+59,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+60,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+61,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+62,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+63,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+64,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+65,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+66,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+67,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+68,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+69,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+70,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+71,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+72,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+73,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+74,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+75,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+76,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+77,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+78,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+79,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+80,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+81,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+82,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+83,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+84,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+85,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+86,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+87,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+88,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+89,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+90,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+91,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+92,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+93,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+94,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+95,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+96,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+97,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+98,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+99,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+100,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+101,Chemlock Nutrition,"Cincinnati, OH",Data Scientist and Software Engineer,"$80,000 - $90,000 a year","['Bachelor', 'Associate']",[],[],[],"['401K', 'Retirement', 'Dental']",OH
+102,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+103,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+104,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+105,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+106,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+107,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+108,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+109,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+110,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+111,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+112,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+113,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+114,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+115,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+116,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+117,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+118,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+119,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+120,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+121,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+122,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+123,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+124,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+125,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+126,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+127,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+128,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+129,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+130,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+131,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+132,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+133,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+134,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+135,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+136,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+137,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+138,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+139,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+140,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+141,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+142,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+143,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+144,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+145,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+146,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+147,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+148,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+149,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+150,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+151,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+152,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+153,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+154,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+155,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+156,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+157,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+158,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+159,Delaware Electric Cooperative,"Greenwood, DE 19950",Data Scientist,,['Bachelor'],"['Python', 'scala', 'julia']",[],['Artificial Intelligence'],['Retirement'],DE
+160,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+161,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+162,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+163,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+164,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+165,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+166,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+167,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+168,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+169,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+170,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+171,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+172,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+173,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+174,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+175,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+176,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+177,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+178,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+179,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+180,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+181,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+182,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+183,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+184,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+185,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+186,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+187,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+188,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+189,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+190,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+191,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+192,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+193,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+194,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+195,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+196,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+197,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+198,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+199,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+200,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+201,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+202,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+203,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+204,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+205,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+206,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+207,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+208,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+209,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+210,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+211,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+212,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+213,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+214,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+215,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+216,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+217,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+218,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+219,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+220,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+221,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+222,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+223,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+224,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+225,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+226,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+227,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+228,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+229,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+230,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+231,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+232,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+233,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+234,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+235,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+236,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+237,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+238,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+239,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+240,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+241,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+242,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+243,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+244,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+245,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+246,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+247,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+248,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+249,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+250,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+251,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+252,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+253,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+254,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+255,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+256,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+257,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+258,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+259,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+260,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+261,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+262,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+263,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+264,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+265,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+266,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+267,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+268,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+269,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+270,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+271,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+272,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+273,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+274,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+275,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+276,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+277,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+278,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+279,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+280,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+281,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+282,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+283,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+284,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+285,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+286,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+287,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+288,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+289,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+290,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+291,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+292,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+293,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+294,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+295,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+296,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+297,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+298,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+299,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+300,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+301,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+302,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+303,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+304,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+305,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+306,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+307,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+308,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+309,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+310,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+311,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+312,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+313,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+314,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+315,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+316,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+317,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+318,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+319,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+320,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+321,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+322,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+323,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+324,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+325,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+326,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+327,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+328,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+329,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+330,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+331,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+332,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+333,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+334,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+335,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+336,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+337,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+338,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+339,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+340,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+341,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+342,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+343,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+344,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+345,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+346,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+347,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+348,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+349,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+350,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+351,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+352,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+353,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+354,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+355,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+356,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+357,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+358,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+359,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+360,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+361,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+362,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+363,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+364,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+365,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+366,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+367,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+368,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+369,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+370,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+371,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+372,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+373,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+374,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+375,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+376,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+377,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+378,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+379,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+380,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+381,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+382,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+383,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+384,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+385,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+386,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+387,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+388,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+389,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+390,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+391,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+392,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+393,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+394,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+395,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+396,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+397,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+398,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+399,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+400,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+401,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+402,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+403,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+404,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+405,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+406,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+407,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+408,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+409,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+410,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+411,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+412,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+413,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+414,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+415,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+416,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+417,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+418,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+419,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+420,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+421,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+422,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+423,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+424,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+425,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+426,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+427,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+428,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+429,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+430,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+431,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+432,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+433,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+434,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+435,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+436,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+437,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+438,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+439,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+440,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+441,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+442,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+443,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+444,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+445,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+446,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+447,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+448,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+449,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+450,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+451,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+452,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+453,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+454,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+455,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+456,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+457,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+458,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+459,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+460,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+461,Headway,"Atlanta, GA",Data Scientist,"$100,000 - $125,000 a year",[],"['Python', ' SQL ']",[],"['Artificial Intelligence', 'Neural Network']","['Dental', 'Vision']",GA
+462,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+463,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+464,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+465,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+466,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+467,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+468,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+469,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+470,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+471,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+472,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+473,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+474,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+475,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+476,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+477,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+478,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+479,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+480,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+481,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+482,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+483,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+484,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+485,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+486,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+487,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+488,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+489,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+490,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+491,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+492,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+493,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+494,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+495,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+496,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+497,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+498,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+499,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+500,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+501,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+502,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+503,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+504,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+505,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+506,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+507,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+508,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+509,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+510,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+511,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+512,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+513,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+514,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+515,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+516,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+517,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+518,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+519,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+520,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+521,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+522,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+523,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+524,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+525,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+526,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+527,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+528,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+529,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+530,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+531,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+532,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+533,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+534,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+535,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+536,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+537,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+538,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+539,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+540,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+541,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+542,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+543,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+544,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+545,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+546,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+547,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+548,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+549,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+550,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+551,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+552,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+553,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+554,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+555,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+556,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+557,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+558,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+559,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+560,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+561,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+562,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+563,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+564,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+565,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+566,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+567,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+568,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+569,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+570,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+571,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+572,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+573,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+574,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+575,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+576,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+577,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+578,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+579,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+580,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+581,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+582,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+583,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+584,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+585,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+586,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+587,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+588,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+589,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+590,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+591,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+592,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+593,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+594,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+595,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+596,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+597,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+598,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+599,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+600,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+601,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+602,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+603,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+604,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+605,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+606,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+607,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+608,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+609,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+610,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+611,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+612,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+613,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+614,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+615,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+616,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+617,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+618,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+619,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+620,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+621,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+622,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+623,Allstate,"Chicago, IL",Data Scientist: Deep Learning & NLP,,[],['Python'],[],['Deep Learning'],[],IL
+624,"Daman, Inc.","San Antonio, TX",Data Scientist,"$120,000 - $140,000 a year",[],['Python'],[],[],[],TX
+625,Clara Analytics,"Santa Clara, CA",Principal Data Scientist,,['PHD'],"['Python', 'scala']",[],[],[],CA
+626,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+627,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+628,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+629,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+630,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+631,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+632,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+633,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+634,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+635,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+636,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+637,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+638,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+639,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+640,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+641,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+642,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+643,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+644,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+645,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+646,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+647,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+648,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+649,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+650,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+651,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+652,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+653,GEICO,"Chevy Chase, MD",Senior Data Scientist,,['Associate'],['Python'],['Flexible'],[],[],MD
+654,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+655,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+656,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+657,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+658,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+659,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+660,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+661,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+662,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+663,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+664,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+665,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+666,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+667,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+668,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+669,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+670,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+671,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+672,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+673,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+674,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+675,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+676,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+677,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+678,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+679,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
+680,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+681,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+682,Spectrum Communications & Consulting Inc.,"Chicago, IL",Data Engineer,,['Bachelor'],"['Python', ' SQL ']",['Flexible'],[],"['Retirement', 'Dental']",IL
+683,Tsunami Tsolutions,"Glastonbury, CT 06033",Data Scientist/Analyst,,[],['Python'],['Flexible'],['Machine Learning'],"['Retirement', 'Dental']",CT
+684,Central Intelligence Agency,"Washington, DC",Data Scientist,"$67,968 - $126,062 a year",['Bachelor'],[],['Leadership'],[],[],DC
+685,iQuartic,"Boston, MA 02199 (Back Bay area)",OCR Data Scientist,,[],['Python'],['Flexible'],['Neural Network'],"['Retirement', 'Dental', 'Vision']",MA
+686,Seen by Indeed,"Chicago, IL",Data Scientist,,[],[],[],[],[],IL
+687,GEICO,"Chevy Chase, MD",Data Scientist,,"['Bachelor', 'Associate']",['Python'],['Flexible'],[],[],MD
+688,FPT Software,"Mettawa, IL",Data Scientist,,[],"['Python', ' SQL ']",[],[],[],IL
